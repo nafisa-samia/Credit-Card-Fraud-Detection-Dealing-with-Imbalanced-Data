@@ -1,1 +1,2 @@
-# Credit-Card-Fraud-Detection-using-different-Supervised-Model-for-Undersampled-and-Oversampled-Data
+# Credit-Card-Fraud-Detection
+Using-different-Supervised-Model-for-Undersampled-and-Oversampled-Data
