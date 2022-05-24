@@ -3,6 +3,9 @@
 
 This project is based on supervised machine learning where you will be predicting whether a credit card transaction is original transaction or fraud transaction based on various parameters. This is a classification problem.
 
+![alt text](https://weclouddata.com/wp-content/uploads/2019/10/weclouddata_student_blog_fraud_analytics.png)
+
+
 
 <h4>Problem Statement</h4>
 The problem statement chosen for this project is to predict fraudulent credit card transactions with the help of machine learning models.
